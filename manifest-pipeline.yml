@@ -7,5 +7,3 @@ applications:
   memory: 256M
   domain: mybluemix.net
   disk_quota: 256M
-  services:
-  - sample-java-cloudant-cloudantNoSQLDB
